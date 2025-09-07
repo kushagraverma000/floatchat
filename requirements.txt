@@ -1,0 +1,17 @@
+xarray
+netCDF4
+numpy
+pandas
+pyarrow
+tqdm
+sentence-transformers
+chromadb
+langchain
+streamlit
+streamlit-folium
+folium
+plotly
+fastapi
+uvicorn
+scikit-learn
+requests
